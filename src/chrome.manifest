@@ -1,0 +1,2 @@
+content bmsp content/
+overlay chrome://browser/content/bookmarks/bookmarksPanel.xul chrome://bmsp/content/overlay.xul
